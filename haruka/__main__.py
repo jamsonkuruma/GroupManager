@@ -28,7 +28,7 @@ Activate Anti-spam protection in your BM by this command :
 Made from the source code of [Akila Widuruwan](t.me/Akilawiduruwan)
 Special thanks to [Pahan Harsh](t.me/Humangasor) for helping me.
 Click /help or Help button below to find out more about how to use me to my full potential.
- Add me to a group by clicking [here](http://t.me/nezuko71bot?startgroup=true).
+ Add me to a group by clicking [here](http://t.me/nezuko71bot?startgroup=true).Join Nezuko Support Group From [here](t.me/slnezukosupport)
 """
 
 
@@ -146,7 +146,7 @@ def send_start(bot, update):
     first_name = update.effective_user.first_name 
     text = PM_START
 
-    keyboard = [[InlineKeyboardButton(text="🇮🇳 Language", callback_data="set_lang_")]]
+    keyboard = [[InlineKeyboardButton(text="🇱🇰 Language", callback_data="set_lang_")]]
     keyboard += [[InlineKeyboardButton(text="🛠 Reporting", callback_data="cntrl_panel_M"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
 
