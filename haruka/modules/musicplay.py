@@ -24,4 +24,4 @@ Here is the help for the Music-Play module:
 1) Add Bot Name in your group to admin with all permission
 2) Add Assistant I'd to your group @Nezukosongbot
 """
-__mod_name__= "Music Play"
+__mod_name__ = "Music Play"
