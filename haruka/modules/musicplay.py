@@ -1,4 +1,4 @@
-help = """
+__help__ = """
 Here is the help for the Music-Play module:
 
 =>> Song Playing 🎧 
